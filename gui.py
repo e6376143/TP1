@@ -20,7 +20,7 @@ def calculer():
 
 fenetre = tk.Tk()
 fenetre.title("TP1 - Interface Graphique")
-fenetre.geometry("500x450")
+fenetre.geometry("750x650")
 
 label_instruction = tk.Label(fenetre, text="Entrez une expression mathématique :")
 label_instruction.pack()
